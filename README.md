@@ -12,7 +12,6 @@
 
 ## [专业核心课程](./专业核心课程/README.md)
 > 以下顺序几乎就是学习顺序
-
 - [计算机组成原理](./专业核心课程/计算机组成原理/README.md)
 - [计算机体系结构](./专业核心课程/计算机体系结构/README.md)
 - [C语言](./专业核心课程/C程序设计语言/README.md)
@@ -28,7 +27,7 @@
 - [数据库系统](./非核心课程/数据库系统/README.md)
 - 软件工程
 
-## 经典推荐
+## [经典推荐](https://www.douban.com/doulist/156598271/)
 - [Stevens经典6本](./经典推荐/Stevens经典6本/README.md)
 - [计算机程序的构造和解释](./经典推荐/SICP/README.md)
 - [设计模式](./经典推荐/设计模式/README.md)
@@ -38,22 +37,23 @@
 - [编程珠玑](./经典推荐/编程珠玑/README.md)
 - [数学之美](./经典推荐/数学之美/README.md)
 - [人月神话](./经典推荐/人月神话/README.md)
+- [程序员最值得推荐的十本书](https://www.douban.com/doulist/156598271/)
 
 ## 领域好书
-- Shell
-- VIM
-- Git
-- Jenkins
-- Docker
-- Kubernetes
-- python
-- golang
-- MySQL
-- Redis
-- ElasticSearch
-- HTML
-- CSS
-- JavaScript
+- [Shell](./领域好书/Shell/README.md)
+- [VIM](./领域好书/VIM/README.md)
+- [Git](./领域好书/Git/README.md)
+- [Jenkins](./领域好书/Jenkins/README.md)
+- [Docker](./领域好书/Docker/README.md)
+- [Kubernetes](./领域好书/Kubernetes/README.md)
+- [python](./领域好书/python/README.md)
+- [golang](./领域好书/golang/README.md)
+- [MySQL](./领域好书/MySQL/README.md)
+- [Redis](./领域好书/Redis/README.md)
+- [ElasticSearch](./领域好书/ElasticSearch/README.md)
+- [HTML](./领域好书/HTML/README.md)
+- [CSS](./领域好书/CSS/README.md)
+- [JavaScript](./领域好书/JavaScript/README.md)
 
 ## 避坑指南
 - [程序员修炼之道](./避坑指南/程序员修炼之道/README.md)
