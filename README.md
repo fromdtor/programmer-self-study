@@ -28,20 +28,34 @@
 - [数据库系统](./非核心课程/数据库系统/README.md)
 - 软件工程
 
-## 领域好书推荐
+## 经典推荐
+- [Stevens经典6本](./经典推荐/Stevens经典6本/README.md)
+- [计算机程序的构造和解释](./经典推荐/SICP/README.md)
+- [设计模式](./经典推荐/设计模式/README.md)
+- [重构](./经典推荐/重构/README.md)
+- [代码大全](./经典推荐/代码大全/README.md)
+- [凤凰架构](./经典推荐/凤凰架构/README.md)
+- [编程珠玑](./经典推荐/编程珠玑/README.md)
+- [数学之美](./经典推荐/数学之美/README.md)
+- [人月神话](./经典推荐/人月神话/README.md)
+
+## 领域好书
+- Shell
 - VIM
 - Git
 - Jenkins
 - Docker
 - Kubernetes
 - python
+- golang
 - MySQL
 - Redis
 - ElasticSearch
 - HTML
 - CSS
 - JavaScript
-- 设计模式
-- 重构
-- 代码大全
-- 凤凰架构
+
+## 避坑指南
+- [程序员修炼之道](./避坑指南/程序员修炼之道/README.md)
+- [数据密集型应用设计](./避坑指南/数据密集型应用设计/README.md)
+- [HTML5秘籍](./避坑指南/HTML5秘籍/README.md)
