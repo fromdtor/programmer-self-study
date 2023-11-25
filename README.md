@@ -46,6 +46,7 @@
 - [Jenkins](./领域好书/Jenkins/README.md)
 - [Docker](./领域好书/Docker/README.md)
 - [Kubernetes](./领域好书/Kubernetes/README.md)
+- [Prometheus](./领域好书/Prometheus/README.md)
 - [python](./领域好书/python/README.md)
 - [golang](./领域好书/golang/README.md)
 - [MySQL](./领域好书/MySQL/README.md)
