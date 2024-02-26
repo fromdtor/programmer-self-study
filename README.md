@@ -38,7 +38,7 @@
 - [编程珠玑](./经典推荐/编程珠玑/README.md)
 - [数学之美](./经典推荐/数学之美/README.md)
 - [人月神话](./经典推荐/人月神话/README.md)
-- [程序员最值得推荐的十本书](https://www.douban.com/doulist/156598271/)
+- [程序员最值得推荐的十本书](https://zhuanlan.zhihu.com/p/668703498)
 - [Peter Norvig：自学编程，十年磨一剑](https://zhuanlan.zhihu.com/p/674702263)
 
 ## 领域好书
