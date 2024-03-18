@@ -58,6 +58,7 @@
 - [CSS](./领域好书/CSS/README.md)
 - [JavaScript](./领域好书/JavaScript/README.md)
 - [正则表达式](./领域好书/RE/README.md)
+- [内核源代码阅读](./领域好书/内核源代码阅读/README.md)
 
 ## 避坑指南
 - [程序员修炼之道](./避坑指南/程序员修炼之道/README.md)
